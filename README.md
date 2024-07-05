@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer. Here's a glimpse into my journey and projects:
 
+![Visitor Count](https://komarev.com/ghpvc/?username=saumya1109)
+
 ---
 
 ## 🔭 About Me
