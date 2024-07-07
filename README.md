@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. Here's a glim
 -🔭 Current Focus: Continuously striving to be the best version of myself. <br>
 -🌱 Learning Journey: I am currently honing my Python skills. <br>
 -💬 Ask Me About: Anything! If I don't know the answer, I'll find out (with a little help from ChatGPT :P). <br>
--⚡ Fun Fact: I love dancing and cooking. <br>
+-⚡ Outside of Work: I love dancing. <br>
 
 ---
 
