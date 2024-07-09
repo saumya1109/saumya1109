@@ -32,12 +32,12 @@ Welcome to my GitHub profile! I'm a passionate software developer. Here's a glim
 <table>
   <tr>
     <td>
-      <a href="https://github.com/saumya1109/Java-Leet-Code">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saumya1109&repo=Java-Leet-Code&theme=radical" alt="Java-Leet-Code"/>
+      <a href="https://github.com/saumya1109/Java-Leet-Code-Problem-Solving">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saumya1109&repo=Java-Leet-Code-Problem-Solving&theme=radical" alt="Java-Leet-Code-Problem-Solving"/>
       </a>
     </td>
     <td>
-      <img src="https://img.shields.io/github/commit-activity/m/saumya1109/Java-Leet-Code?style=flat-square&logo=github&label=Commits" alt="Java-Leet-Code Commits"/>
+      <img src="https://img.shields.io/github/commit-activity/m/saumya1109/Java-Leet-Code-Problem-Solving?style=flat-square&logo=github&label=Commits" alt="Java-Leet-Code-Problem-Solving Commits"/>
     </td>
   </tr>
   <tr>
@@ -58,6 +58,16 @@ Welcome to my GitHub profile! I'm a passionate software developer. Here's a glim
     </td>
     <td>
       <img src="https://img.shields.io/github/commit-activity/m/saumya1109/Java-Hackerrank-Problem-Solving?style=flat-square&logo=github&label=Commits" alt="Java-Hackerrank-Problem-Solving Commits"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/saumya1109/SQL-50-Leetcode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saumya1109&repo=SQL-50-Leetcode&theme=radical" alt="SQL-50-Leetcode"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/saumya1109/SQL-50-Leetcode?style=flat-square&logo=github&label=Commits" alt="SQL-50-Leetcode"/>
     </td>
   </tr>
 </table>
