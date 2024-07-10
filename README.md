@@ -27,11 +27,6 @@ Welcome to my GitHub profile! I'm a passionate software developer. Here's a glim
 
 ---
 
-## 📊 Contribution Graph
-
-![Saumya's Contribution Graph](https://github.com/saumya1109/saumya1109/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 📂 Repositories and Commit Counts
 
