@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer, and I'd love to share my projects with you.
 
 The best way to learn is through practice. Coding is like cooking; it needs patience, a bit of love to make it better, and a whole lot of passion. I'm constantly on a quest to learn something new and keep my brain from rusting. 
+
 Feel free to explore my GitHub repositories – who knows, you might find something useful!
 
 
@@ -18,7 +19,6 @@ Feel free to explore my GitHub repositories – who knows, you might find someth
 - **🌱 Learning Journey**: Deep diving into Python, one script at a time.
 - **💬 Ask Me About**: Code, tech trends, or that one time I debugged for 6 hours straight.
 - **⚡ Outside of Work**: When I'm not coding, I'm reverse-engineering my dance routines.
-
 ---
 
 ## 🏅 My Badges
@@ -27,7 +27,10 @@ Feel free to explore my GitHub repositories – who knows, you might find someth
   <img src="https://github.com/saumya1109/assets/blob/main/Java-hacker-rank.png" alt="Java Badge" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/problem-solving-hackerrank.png" alt="Problem Solving Badge" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/SQL-hacker-rank.png" alt="SQL Badge" width="100" height="100">
+  <img src="https://github.com/saumya1109/assets/blob/main/Cloud-foundation.png" alt="AWS CLoud Foundation" width="100" height="100">
+  <img src="https://github.com/saumya1109/assets/blob/main/Azure-Fundamentals.png" alt="AZ-900" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100" height="100">
+  
 </div>
 
 
