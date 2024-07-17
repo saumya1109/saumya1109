@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer, and I'd love to share my projects with you.
 
-The best way to learn is through practice. Coding is like cooking; it needs patience, a bit of love to make it better, and a whole lot of passion.
-I'm constantly on a quest to learn something new and keep my brain from rusting. Feel free to explore my GitHub repositories – who knows, you might find something useful!
+The best way to learn is through practice. Coding is like cooking; it needs patience, a bit of love to make it better, and a whole lot of passion. I'm constantly on a quest to learn something new and keep my brain from rusting. 
+Feel free to explore my GitHub repositories – who knows, you might find something useful!
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=saumya1109&style=flat-square&color=blue)
@@ -20,6 +20,17 @@ I'm constantly on a quest to learn something new and keep my brain from rusting.
 - **⚡ Outside of Work**: When I'm not coding, I'm reverse-engineering my dance routines.
 
 ---
+
+## 🏅 My Badges
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/saumya1109/assets/blob/main/Java-hacker-rank.png" alt="Java Badge" width="100" height="100">
+  <img src="https://github.com/saumya1109/assets/blob/main/problem-solving-hackerrank.png" alt="Problem Solving Badge" width="100" height="100">
+  <img src="https://github.com/saumya1109/assets/blob/main/SQL-hacker-rank.png" alt="SQL Badge" width="100" height="100">
+  <img src="https://github.com/saumya1109/assets/blob/main/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100" height="100">
+</div>
+
+
 
 ## 🔥 Current Streak
 
