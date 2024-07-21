@@ -52,8 +52,9 @@ Feel free to explore my GitHub repositories – who knows, you might find someth
 
 | Repository | Commits |
 | --- | --- |
-| [Java-Leet-Code-Problem-Solving](https://github.com/saumya1109/Java-Leet-Code-Problem-Solving) | ![Commits](https://img.shields.io/github/commit-activity/m/saumya1109/Java-Leet-Code-Problem-Solving?style=flat-square&logo=github&label=Commits) |
+| [Java-8](https://github.com/saumya1109/Java-8) | ![Commits](https://img.shields.io/github/commit-activity/m/saumya1109/Java-8?style=flat-square&logo=github&label=Commits) |
 | [DataStructureAndAlgo](https://github.com/saumya1109/DataStructureAndAlgo) | ![Commits](https://img.shields.io/github/commit-activity/m/saumya1109/DataStructureAndAlgo?style=flat-square&logo=github&label=Commits) |
+| [Java-Leet-Code-Problem-Solving](https://github.com/saumya1109/Java-Leet-Code-Problem-Solving) | ![Commits](https://img.shields.io/github/commit-activity/m/saumya1109/Java-Leet-Code-Problem-Solving?style=flat-square&logo=github&label=Commits) |
 | [Java-Hackerrank-Problem-Solving](https://github.com/saumya1109/Java-Hackerrank-Problem-Solving) | ![Commits](https://img.shields.io/github/commit-activity/m/saumya1109/Java-Hackerrank-Problem-Solving?style=flat-square&logo=github&label=Commits) |
 | [SQL-50-Leetcode](https://github.com/saumya1109/SQL-50-Leetcode) | ![Commits](https://img.shields.io/github/commit-activity/m/saumya1109/SQL-50-Leetcode?style=flat-square&logo=github&label=Commits) |
 
