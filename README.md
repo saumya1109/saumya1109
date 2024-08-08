@@ -24,12 +24,15 @@ Feel free to explore my GitHub repositories – who knows, you might find someth
 ## 🏅 My Badges
 
 <div style="display: flex; align-items: center;">
+  
+  <img src="https://github.com/saumya1109/assets/blob/main/Leetcode-50days.png" alt="Top SQL 50 Badge" width="100" height="100">
+  <img src="https://github.com/saumya1109/assets/blob/main/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/Java-hacker-rank.png" alt="Java Badge" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/problem-solving-hackerrank.png" alt="Problem Solving Badge" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/SQL-silver-hackerrank.png" alt="SQL Badge" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/Cloud-foundation.png" alt="AWS CLoud Foundation" width="100" height="100">
   <img src="https://github.com/saumya1109/assets/blob/main/Azure-Fundamentals.png" alt="AZ-900" width="100" height="100">
-  <img src="https://github.com/saumya1109/assets/blob/main/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100" height="100">
+ 
   
 </div>
 
